@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Contact>
+    <section id="aa-contact">
+        <div class="container">
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                <div class="col-md-12">
+                    <div class="aa-contact-area">
+                        <div class="aa-contact-top">
+                            <div class="aa-contact-top-left">
+                                <iframe width="900" height="450" frameborder="0" allowfullscreen="" style="border:0" src="@item.ContactSMap"></iframe>
+                            </div>
+                            <div class="aa-contact-top-right">
+                                <h2>@item.ContactTitle</h2>
+                                <p>@item.ContactDescription</p>
+                                <ul class="contact-info-list">
+                                    <li> <i class="fa fa-phone"></i> @item.ContactPhoneNumber</li>
+                                    <li> <i class="fa fa-envelope-o"></i> @item.ContactEmail</li>
+                                    <li> <i class="fa fa-map-marker"></i> @item.ContactAdress</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="aa-contact-bottom">
+                            <div class="aa-title">
+                                <h2>Send Your Message</h2>
+                                <span></span>
+                                <p>Your email address will not be published. Required fields are marked <strong class="required">*</strong></p>
+                            </div>
+                            <div class="aa-contact-form">
+                                <form class="contactform">
+                                    <p class="comment-form-author">
+                                        <label for="author">Name <span class="required">*</span></label>
+                                        <input type="text" name="author" value="" size="30" required="required">
+                                    </p>
+                                    <p class="comment-form-email">
+                                        <label for="email">Email <span class="required">*</span></label>
+                                        <input type="email" name="email" value="" aria-required="true" required="required">
+                                    </p>
+                                    <p class="comment-form-url">
+                                        <label for="subject">Subject</label>
+                                        <input type="text" name="subject">
+                                    </p>
+                                    <p class="comment-form-comment">
+                                        <label for="comment">Message</label>
+                                        <textarea name="comment" cols="45" rows="8" aria-required="true" required="required"></textarea>
+                                    </p>
+                                    <p class="form-submit">
+                                        <input type="submit" name="submit" class="aa-browse-btn" value="Send Message">
+                                    </p>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                
+                </div>
+                }
+            </div>
+        </div>
+    </section>

@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Menu>
+
+@foreach (var item in Model)
+{
+
+        <li><a asp-action="@item.Menuurl">@item.MenuTitle</a></li>
+
+        }
+<!--/.nav-collapse -->

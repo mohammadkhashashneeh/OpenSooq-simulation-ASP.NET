@@ -1,0 +1,309 @@
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.exe
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.deps.json
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.runtimeconfig.json
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.runtimeconfig.dev.json
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ref\Next2FinalApp.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.pdb
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.Views.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.Views.pdb
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.csproj.AssemblyReference.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.AssemblyInfoInputs.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.AssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorAssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\scopedcss\bundle\Next2FinalApp.styles.css
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\staticwebassets\Next2FinalApp.StaticWebAssets.Manifest.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.TagHelpers.input.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.TagHelpers.output.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorCoreGenerate.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorTargetAssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.Views.pdb
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.csproj.CopyComplete
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\ref\Next2FinalApp.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.pdb
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.genruntimeconfig.cache
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Course\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Instructor\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Article\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Home\Course.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\About\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Contact\Default.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\appsettings.Development.json
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\appsettings.json
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.exe
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.deps.json
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.runtimeconfig.json
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.runtimeconfig.dev.json
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.pdb
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.Views.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Next2FinalApp.Views.pdb
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Humanizer.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.csproj.AssemblyReference.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.AssemblyInfoInputs.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.AssemblyInfo.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.csproj.CoreCompileInputs.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorAssemblyInfo.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorAssemblyInfo.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.TagHelpers.input.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.TagHelpers.output.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorCoreGenerate.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Home\Course.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\About\Default.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Article\Default.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Contact\Default.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Course\Default.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Instructor\Default.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorTargetAssemblyInfo.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.RazorTargetAssemblyInfo.cs
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.Views.pdb
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\scopedcss\bundle\Next2FinalApp.styles.css
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\staticwebassets\Next2FinalApp.StaticWebAssets.Manifest.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\staticwebassets\Next2FinalApp.StaticWebAssets.Pack.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\staticwebassets\msbuild.Next2FinalApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\staticwebassets\msbuild.build.Next2FinalApp.props
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Next2FinalApp.props
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Next2FinalApp.props
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2Fin.E1C24555.Up2Date
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\refint\Next2FinalApp.dll
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.pdb
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\Next2FinalApp.genruntimeconfig.cache
+F:\ASP.net\Next2FinalApp\Next2FinalApp\Next2FinalApp\obj\Debug\net5.0\ref\Next2FinalApp.dll

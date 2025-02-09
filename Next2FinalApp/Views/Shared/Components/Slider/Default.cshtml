@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Slider>
+    <section id="aa-agents">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="aa-agents-area">
+                        <div class="aa-title">
+                            <h2>Slider</h2>
+                            <span></span>
+                        </div>
+                        <!-- Top slider single slide -->
+                        <div class="aa-agents-content">
+
+                            <!-- Top slider content -->
+                            <ul class="aa-agents-slider">
+
+                                @foreach (var item in Model)
+                                {
+
+                                    <li>
+                                        <div class="aa-single-agents">
+                                            <h2 class="aa-top-slider-title">@item.SliderTitle</h2>
+                                            <span class="aa-top-slider-catg">@item.SliderSubTitle</span>
+                                            <p class="aa-top-slider-location"><i class="fa fa-map-marker"></i>@item.Sliderdesc</p>
+                                            <span class="aa-top-slider-off">@item.OfferPerc</span>
+                                            <p class="aa-top-slider-price">@item.Price</p>
+                                            <a href="/#" class="aa-top-slider-btn" tabindex="0">Read More <span class="fa fa-angle-double-right"></span></a>
+                                        </div>
+                                    </li>
+
+                                }
+                                <!-- / Top slider content -->
+                            </ul>
+
+                        </div>   
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
