@@ -1,0 +1,40 @@
+﻿@model OpenSooq.Models.Product
+
+@{
+    ViewData["Title"] = "ProductDetails";
+}
+
+
+<div class="container-fluid py-5">
+    <div class="row px-xl-5">
+        <div class="col-lg-5 pb-5">
+            <div id="product-carousel" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner border">
+
+                    <div class="carousel-Model active">
+                        <img class="w-100 h-100" src=@Url.Content("~/newImg/" + @Model.ProductImg) asp-append-version="true">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-7 pb-5">
+            <h3 class="font-weight-semi-bold">@Model.ProductName</h3>
+            <h3 class="font-weight-semi-bold mb-4">
+                @Html.DisplayFor(model => model.Category.CategoryName)
+            </h3>
+            <p class="mb-4">@Model.ProductDesc</p>
+            <div class="text-left">
+                <a class="btn btn-primary px-3" href="tel:@Html.DisplayFor(model => model.User.Mobile)"> Call <i class="fa fa-phone mr-1"></i></a>
+            
+                <a class="btn btn-primary px-3" href="https://wa.me/@Html.DisplayFor(model=>model.User.Mobile)"> WhatsApp <i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+
+        </div>
+    </div>
+
+</div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

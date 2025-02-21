@@ -1,0 +1,79 @@
+﻿@model OpenSooq.Models.User
+@using Microsoft.AspNetCore.Http
+<div class="container rounded bg-white mt-5 mb-5">
+    <h2>My Profile</h2>
+
+    <div class="row">
+        <div class="col-md-5 ">
+            <div class="d-flex flex-column align-items-center text-center p-3 py-5"><img class="rounded-circle mt-5" width="150px" src=@Url.Content("~/newImg/" +  Model.UserImg) asp-append-version="true"></div>
+            <br />
+            <br />
+            <br />
+            <div class="p-3 py-5">
+                <div class="row mt-3">
+                    <div class="col-md-12"><label class="form-control">@Model.UserName</label></div>
+                    <div class="col-md-12"><label class="form-control">@Model.Email</label></div>
+                    <div class="col-md-12"><label class="form-control">@Model.Mobile</label></div>
+                    <div class="col-md-12"><label class="form-control">@Model.Address</label></div>
+
+                    <div class="mt-5 text-center">
+                        <a class="btn btn-default" asp-action="Index">Back</a>
+                        @if (Context.Session.GetInt32("RoleId") == 2)
+                        {
+                            <a class="btn btn-primary" asp-action="Edit" asp-controller="Users" asp-route-id="@Model.UserId">Edit</a>
+                        }
+                        @if (Context.Session.GetInt32("RoleId") == 1)
+                        {
+                            <a class="btn btn-primary" asp-action="Edit"  asp-route-id="@Model.UserId">Edit</a>
+                        }
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+
+    .form-control:focus {
+        box-shadow: none;
+        border-color: #BA68C8
+    }
+
+    .profile-button {
+        background: rgb(99, 39, 120);
+        box-shadow: none;
+        border: none
+    }
+
+        .profile-button:hover {
+            background: #682773
+        }
+
+        .profile-button:focus {
+            background: #682773;
+            box-shadow: none
+        }
+
+        .profile-button:active {
+            background: #682773;
+            box-shadow: none
+        }
+
+    .back:hover {
+        color: #682773;
+        cursor: pointer
+    }
+
+    .labels {
+        font-size: 11px
+    }
+
+    .add-experience:hover {
+        background: #BA68C8;
+        color: #fff;
+        cursor: pointer;
+        border: solid 1px #BA68C8
+    }
+</style>

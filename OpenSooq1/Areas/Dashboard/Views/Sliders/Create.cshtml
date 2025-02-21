@@ -1,0 +1,80 @@
+﻿@model OpenSooq.Models.Slider
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Slider</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SliderTitle" class="control-label"></label>
+                <input asp-for="SliderTitle" class="form-control" />
+                <span asp-validation-for="SliderTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SliderSubTitle" class="control-label"></label>
+                <input asp-for="SliderSubTitle" class="form-control" />
+                <span asp-validation-for="SliderSubTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OfferPrice" class="control-label"></label>
+                <input asp-for="OfferPrice" class="form-control" />
+                <span asp-validation-for="OfferPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Currency" class="control-label"></label>
+                <input asp-for="Currency" class="form-control" />
+                <span asp-validation-for="Currency" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtnTxt" class="control-label"></label>
+                <input asp-for="BtnTxt" class="form-control" />
+                <span asp-validation-for="BtnTxt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BtnUrl" class="control-label"></label>
+                <input asp-for="BtnUrl" class="form-control" />
+                <span asp-validation-for="BtnUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label"></label>
+                <input  asp-for="ImageFile" class="form-control" />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreationDate" class="control-label"></label>
+                <input asp-for="CreationDate" class="form-control" />
+                <span asp-validation-for="CreationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsDeleted" /> @Html.DisplayNameFor(model => model.IsDeleted)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

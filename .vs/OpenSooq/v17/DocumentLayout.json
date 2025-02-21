@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kbnfs\\Downloads\\OpenSooq-simulation-main\\OpenSooq-simulation-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7225AF65-AEA6-4542-AE07-0E69791AF4C0}|OpenSooq1\\OpenSooq.csproj|c:\\users\\kbnfs\\downloads\\opensooq-simulation-main\\opensooq-simulation-main\\opensooq1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7225AF65-AEA6-4542-AE07-0E69791AF4C0}|OpenSooq1\\OpenSooq.csproj|solutionrelative:opensooq1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kbnfs\\Downloads\\OpenSooq-simulation-main\\OpenSooq-simulation-main\\OpenSooq1\\appsettings.json",
+              "RelativeDocumentMoniker": "OpenSooq1\\appsettings.json",
+              "ToolTip": "C:\\Users\\kbnfs\\Downloads\\OpenSooq-simulation-main\\OpenSooq-simulation-main\\OpenSooq1\\appsettings.json",
+              "RelativeToolTip": "OpenSooq1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T16:00:52.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

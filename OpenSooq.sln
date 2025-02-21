@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSooq", "OpenSooq1\OpenSooq.csproj", "{7225AF65-AEA6-4542-AE07-0E69791AF4C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7225AF65-AEA6-4542-AE07-0E69791AF4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7225AF65-AEA6-4542-AE07-0E69791AF4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7225AF65-AEA6-4542-AE07-0E69791AF4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7225AF65-AEA6-4542-AE07-0E69791AF4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84559965-14F7-463A-B0C5-CF4D68DE6A1E}
+	EndGlobalSection
+EndGlobal

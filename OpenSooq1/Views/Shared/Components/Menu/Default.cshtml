@@ -1,0 +1,7 @@
+﻿
+@model IEnumerable<Menu>
+@foreach (var item in Model)
+{
+
+    <a asp-action="@item.MenuAction" asp-controller="@item.MenuController" class="nav-item nav-link">@item.MenuTitle</a>
+}

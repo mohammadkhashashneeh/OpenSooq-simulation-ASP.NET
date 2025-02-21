@@ -1,0 +1,365 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OpenSooq
+build_property.RootNamespace = OpenSooq
+build_property.ProjectDir = C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXENhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEhvbWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Home/Profilepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXEhvbWVcUHJvZmlsZXBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Menus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXE1lbnVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Menus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXE1lbnVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Menus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXE1lbnVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Menus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXE1lbnVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Menus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXE1lbnVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/ProductShops/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RTaG9wc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/ProductShops/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RTaG9wc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/ProductShops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RTaG9wc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/ProductShops/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RTaG9wc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/ProductShops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RTaG9wc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFByb2R1Y3RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFJvbGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFJvbGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFJvbGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFJvbGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFJvbGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Shared/_DashboarLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfRGFzaGJvYXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Shops/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Shops/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Shops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Shops/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Shops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNob3BzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Sliders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNsaWRlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Sliders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNsaWRlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Sliders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNsaWRlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Sliders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNsaWRlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Sliders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFNsaWRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProductShops/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0U2hvcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProductShops/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0U2hvcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProductShops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0U2hvcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProductShops/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0U2hvcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProductShops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0U2hvcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProducts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProducts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProducts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProducts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserProducts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJQcm9kdWN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserShops/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJTaG9wc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserShops/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJTaG9wc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserShops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJTaG9wc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserShops/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJTaG9wc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/UserShops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJTaG9wc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFVzZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Vendors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFZlbmRvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Vendors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFZlbmRvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Vendors/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFZlbmRvcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Vendors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFZlbmRvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/Vendors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXFZlbmRvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Areas/Dashboard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Account/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Home/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Home/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Home/ProductShopDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0U2hvcERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Home/ProductsShop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0c1Nob3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Home/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Home/ShopDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Shared/Components/CategoryList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Shared/Components/Shop/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2hvcFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Shared/Components/Slider/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Shared/Components/Vendor/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVmVuZG9yXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kbnfs/Downloads/OpenSooq-simulation-main/OpenSooq-simulation-main/OpenSooq1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

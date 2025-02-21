@@ -1,0 +1,533 @@
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.csproj.AssemblyReference.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.AssemblyInfoInputs.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.AssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorAssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\scopedcss\bundle\OpenSooq.styles.css
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\staticwebassets\OpenSooq.StaticWebAssets.Manifest.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.TagHelpers.input.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.TagHelpers.output.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorCoreGenerate.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Account\LogIn.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ProductDetails.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Shop.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ShopDetails.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\ProductShop\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Shop\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Vendor\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorTargetAssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\ref\OpenSooq.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\OpenSooq.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Home\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shared\_DashboarLayout.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq1\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.AssemblyInfoInputs.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.AssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorAssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\scopedcss\bundle\OpenSooq.styles.css
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\staticwebassets\OpenSooq.StaticWebAssets.Manifest.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.TagHelpers.input.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.TagHelpers.output.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorCoreGenerate.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Home\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Account\LogIn.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ProductDetails.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Shop.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ShopDetails.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Shop\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Vendor\Default.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorTargetAssemblyInfo.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorTargetAssemblyInfo.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\ref\OpenSooq.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\appsettings.json
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\OpenSooq.exe
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\OpenSooq.deps.json
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\OpenSooq.runtimeconfig.json
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\OpenSooq.runtimeconfig.dev.json
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\OpenSooq.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ref\OpenSooq.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\OpenSooq.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\OpenSooq.Views.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\OpenSooq.Views.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\PagedList.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\PagedList.Mvc.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.Views.pdb
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.csproj.CopyComplete
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.genruntimeconfig.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\OpenSooq.csproj.AssemblyReference.cache
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Home\Profilepage.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Home\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\libman.json
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Create.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Delete.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Details.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Edit.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Index.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ProductShopDetails.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ProductsShop.cshtml.g.cs
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\bin\Debug\net5.0\System.Web.Helpers.Crypto.dll
+C:\Users\Mohammad KH\source\repos\OpenSooq\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shared\_DashboarLayout.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\appsettings.json
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\libman.json
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\OpenSooq.exe
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\OpenSooq.deps.json
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\OpenSooq.runtimeconfig.json
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\OpenSooq.runtimeconfig.dev.json
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\OpenSooq.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\OpenSooq.pdb
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\OpenSooq.Views.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\OpenSooq.Views.pdb
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\PagedList.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\PagedList.Mvc.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\System.Web.Helpers.Crypto.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.csproj.AssemblyReference.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.AssemblyInfoInputs.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.AssemblyInfo.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.csproj.CoreCompileInputs.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorAssemblyInfo.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorAssemblyInfo.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.TagHelpers.input.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.TagHelpers.output.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorCoreGenerate.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Categories\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Home\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Home\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Home\Profilepage.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Menus\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\ProductShops\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Products\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Roles\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shared\_DashboarLayout.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Shops\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Sliders\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProductShops\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserProducts\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\UserShops\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Users\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Create.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Delete.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Details.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Edit.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\Vendors\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\_ViewImports.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Areas\Dashboard\Views\_ViewStart.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Account\LogIn.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Product.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ProductDetails.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ProductShopDetails.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ProductsShop.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\Shop.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Home\ShopDetails.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Shop\Default.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Slider\Default.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\Components\Vendor\Default.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorTargetAssemblyInfo.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.RazorTargetAssemblyInfo.cs
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.Views.pdb
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\scopedcss\bundle\OpenSooq.styles.css
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\staticwebassets\OpenSooq.StaticWebAssets.Manifest.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\staticwebassets\OpenSooq.StaticWebAssets.Pack.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\staticwebassets\msbuild.OpenSooq.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\staticwebassets\msbuild.build.OpenSooq.props
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.OpenSooq.props
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.OpenSooq.props
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.csproj.Up2Date
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\refint\OpenSooq.dll
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.pdb
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\OpenSooq.genruntimeconfig.cache
+C:\Users\kbnfs\Downloads\OpenSooq-simulation-main\OpenSooq-simulation-main\OpenSooq1\obj\Debug\net5.0\ref\OpenSooq.dll
